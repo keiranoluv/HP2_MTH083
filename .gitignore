@@ -1,0 +1,8 @@
+.venv*/
+.ruff_cache/
+data/
+data_bai3/
+darknet/
+mmdetection_src/
+results_bai*/
+__pycache__/
