@@ -2,6 +2,8 @@
 .ruff_cache/
 data/
 data_bai3/
+data_bai3_dsb2018/
+work_dirs_bai3_dsb2018/
 darknet/
 mmdetection_src/
 results_bai*/
