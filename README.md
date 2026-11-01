@@ -1,7 +1,7 @@
-# HP2_MTH083 – Bài tập thực hành
+## MTH083 - Bài tập thực hành
 
 **Môn học:** Lập trình cho Trí tuệ Nhân tạo nâng cao  
-**Học viên:** Nguyễn Đăng Thới Toàn
+**Học viên:** Nguyễn Đăng Thới Toàn  
 **MSHV:** 25C15062
 
 ## Nội dung
@@ -18,6 +18,6 @@
 - [25C15062/](25C15062/): thư mục nộp bài, gồm 4 báo cáo PDF và 4 notebook có kết quả thực nghiệm.
 - Các file `.docx` tại thư mục gốc: bản Word của báo cáo.
 - [input/](input/) và [output/](output/): video đầu vào và kết quả demo.
-- [Notebook Kaggle Bài 3 – 960×960](https://www.kaggle.com/code/nguyendangthoitoan/yolo26s-n-960): thí nghiệm bổ sung với kích thước ảnh lớn hơn.
+- [Notebook Kaggle Bài 3 - 960×960](https://www.kaggle.com/code/nguyendangthoitoan/yolo26s-n-960): thí nghiệm bổ sung với kích thước ảnh lớn hơn.
 
 Đọc báo cáo PDF để xem tổng hợp kết quả; mở notebook tương ứng để xem code, cấu hình và output chi tiết.
